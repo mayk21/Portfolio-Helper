@@ -2,7 +2,6 @@
 
 This guide provides instructions for deploying the Portfolio-Helper application, consisting of a React frontend and a Node.js/Express backend, to Amazon Web Services (AWS).
 
-**GitHub Repository:** [https://github.com/smmk47/Portfolio-Helper](https://github.com/smmk47/Portfolio-Helper)
 
 ## 1. Project Overview
 
